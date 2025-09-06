@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Bonus Prediction Dashboard
 
 A React-based dashboard for bonus prediction and allocation.  
@@ -60,3 +61,7 @@ yarn install
 
 # Start development server
 yarn start
+=======
+# bonus-dashboard-side-project
+A React-based Bonus Prediction Dashboard that supports CSV and Excel uploads, visualizes data with Recharts, and enables clean data export. Built with modern libraries (Recharts, PapaParse, XLSX, Lucide) to demonstrate expertise in front-end development, data parsing, and interactive visualization.
+>>>>>>> 07c4b840be03f0674df9414875f9d006607fca31
