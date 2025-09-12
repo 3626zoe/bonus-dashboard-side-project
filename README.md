@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🎯 Bonus Prediction Dashboard
+#  Bonus Prediction Dashboard
 
 A React-based dashboard for bonus prediction and allocation.  
 It supports CSV and Excel uploads, parses and visualizes data with **Recharts**, and enables clean data export.  
@@ -7,7 +6,7 @@ Built with **Recharts, PapaParse, XLSX, and Lucide**, this project demonstrates 
 
 ---
 
-## 🚀 Features
+##  Features
 - Upload and parse **CSV/Excel** files
 - **Interactive dashboard** with annual overview
 - Dynamic bonus calculation and editing
@@ -16,7 +15,7 @@ Built with **Recharts, PapaParse, XLSX, and Lucide**, this project demonstrates 
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 - **React** – Front-end framework  
 - **Recharts** – Data visualization  
 - **PapaParse / XLSX** – Data parsing and file handling  
@@ -24,7 +23,7 @@ Built with **Recharts, PapaParse, XLSX, and Lucide**, this project demonstrates 
 
 ---
 
-## 📊 Project Results
+##  Project Results
 
 ### 1. Dashboard Development
 - **Input & Data Merge**  
@@ -46,22 +45,3 @@ Built with **Recharts, PapaParse, XLSX, and Lucide**, this project demonstrates 
   ![Reflection & Future Outlook](project-results/04_FutureOutlook.png)
 
 ---
-
-## 🛠️ Setup & Usage
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/bonus-dashboard.git
-
-# Enter project folder
-cd bonus-dashboard
-
-# Install dependencies
-yarn install
-
-# Start development server
-yarn start
-=======
-# bonus-dashboard-side-project
-A React-based Bonus Prediction Dashboard that supports CSV and Excel uploads, visualizes data with Recharts, and enables clean data export. Built with modern libraries (Recharts, PapaParse, XLSX, Lucide) to demonstrate expertise in front-end development, data parsing, and interactive visualization.
->>>>>>> 07c4b840be03f0674df9414875f9d006607fca31
